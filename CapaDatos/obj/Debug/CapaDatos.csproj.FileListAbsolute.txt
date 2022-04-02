@@ -1,0 +1,9 @@
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\rubi\Desktop\Academico\4to_Cuatrimestre\Materias\Programacion2\Solucion_Multicapas\Mantenimiento_Categoria\CapaDatos\obj\Debug\CapaDatos.pdb
